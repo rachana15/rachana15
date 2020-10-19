@@ -1,4 +1,4 @@
-### Hi there 👋 I am Rachana Bhaskar
+<h2> Hi, I'm Rachana Bhaskar! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <!--
 **rachana15/rachana15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
