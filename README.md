@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 ![](https://visitor-badge.laobi.icu/badge?page_id=rachana15.rachana15)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=radical&hide=php)
+![Top Langs]
+(https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=radical&hide=php)
