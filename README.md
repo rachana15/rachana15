@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rachana15&show_icons=true&theme=radical)
 -->
-![](https://visitor-badge.laobi.icu/badge?page_id=rachana15.rachana15)
+<!-- ![](https://visitor-badge.laobi.icu/badge?page_id=rachana15.rachana15) -->
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=radical&hide=php)
